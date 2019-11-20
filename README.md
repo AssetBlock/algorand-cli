@@ -1,5 +1,8 @@
 # @algorand/cli
 
+![Image of CLI and UI](docs/img/cli-example.png)
+
+
 #### Standard Tooling for Algorand Development
 
 - Easy to use CLI with guided prompts to get up and running FAST
