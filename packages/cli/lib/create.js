@@ -27,7 +27,7 @@ async function create(projectName, options) {
   console.log(chalk.bold.green(`Your application is ready!`));
   console.log(
     chalk.green(
-      `Visit http://localhost:8300/apps/${projectName} in your browser to get started`
+      `Visit http://localhost:8080/apps/${projectName} in your browser to get started`
     )
   );
 
