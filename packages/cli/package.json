@@ -1,0 +1,20 @@
+{
+  "name": "algorand-cli",
+  "version": "1.0.0",
+  "description": "",
+  "bin": {
+    "algorand": "bin/algorand.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "engines": {
+    "node": ">=8.9"
+  },
+  "dependencies": {
+    "chalk": "^3.0.0",
+    "commander": "^4.0.1"
+  }
+}

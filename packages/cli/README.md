@@ -1,0 +1,3 @@
+# CLI
+
+npm install -g
